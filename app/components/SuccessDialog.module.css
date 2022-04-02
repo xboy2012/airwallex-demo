@@ -1,0 +1,12 @@
+.box {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  width: 16rem;
+  height: 12rem;
+  margin: auto;
+  padding: 1rem;
+  background: #fff;
+  border: 1px solid #000000;
+}

@@ -1,0 +1,11 @@
+.header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  padding-left: 3rem;
+  border-bottom: 1px solid;
+  height: 3rem;
+  line-height: 3rem;
+  background: #ffffff;
+  font-weight: bold;
+}
